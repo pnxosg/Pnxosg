@@ -37,6 +37,7 @@ Por eso programo. Empecé resolviendo problemas concretos de mi propio centro de
 - 🩺 Plataforma de selección de demanda médica (categorizador digital)
 - 📝 Solicitud y gestión de permisos del trabajador
 - 📦 Gestión y solicitud de insumos clínicos
+- 📢 Sistema de llamado de pacientes centralizado en tiempo real para la atención clínica directa
 
 **Y además**
 - 🔄 Digitalización de procesos sanitarios
